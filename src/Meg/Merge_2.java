@@ -6,7 +6,7 @@ public class Merge_2 {
 		for(int i=5; i>=1;i--) {
 			System.out.println(i);
 		}
-		Sustem.out.println("to");
+		System.out.println("to");
 	}
 
 }
