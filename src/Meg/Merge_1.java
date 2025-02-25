@@ -5,7 +5,7 @@ public class Merge_1 {
 		for(int i=1; i<=5;i++) {
 			System.out.println(i);
 		}
-		system.out.println("how");
+		System.out.println("how");
 	}
 
 }
